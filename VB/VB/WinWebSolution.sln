@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinWebSolution.Module", "WinWebSolution.Module\WinWebSolution.Module.vbproj", "{9D16A016-0661-4CA6-81A7-F48B44B4833E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinWebSolution.Win", "WinWebSolution.Win\WinWebSolution.Win.vbproj", "{18FA1D00-0ED7-4A85-9FD5-60723E659349}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinWebSolution.Web", "WinWebSolution.Web\WinWebSolution.Web.vbproj", "{07AB7544-E2E7-42EA-8F87-981DEECC174A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D16A016-0661-4CA6-81A7-F48B44B4833E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D16A016-0661-4CA6-81A7-F48B44B4833E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D16A016-0661-4CA6-81A7-F48B44B4833E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D16A016-0661-4CA6-81A7-F48B44B4833E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FA1D00-0ED7-4A85-9FD5-60723E659349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FA1D00-0ED7-4A85-9FD5-60723E659349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FA1D00-0ED7-4A85-9FD5-60723E659349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FA1D00-0ED7-4A85-9FD5-60723E659349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AB7544-E2E7-42EA-8F87-981DEECC174A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AB7544-E2E7-42EA-8F87-981DEECC174A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AB7544-E2E7-42EA-8F87-981DEECC174A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AB7544-E2E7-42EA-8F87-981DEECC174A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
