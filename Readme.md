@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyNonPersistentDomainObject.cs](./CS/WinWebSolution.Module/MyNonPersistentDomainObject.cs) (VB: [MyNonPersistentDomainObject.vb](./VB/WinWebSolution.Module/MyNonPersistentDomainObject.vb))
+* [ShowNonPersistentObjectDetailViewController.cs](./CS/WinWebSolution.Module/ShowNonPersistentObjectDetailViewController.cs) (VB: [ShowNonPersistentObjectDetailViewController.vb](./VB/WinWebSolution.Module/ShowNonPersistentObjectDetailViewController.vb))
+<!-- default file list end -->
 # OBSOLETE - How to show the detail view from the navigation control for a non-persistent object
 
 
